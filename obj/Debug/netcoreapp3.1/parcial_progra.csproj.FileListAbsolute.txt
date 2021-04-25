@@ -1,0 +1,13 @@
+C:\Users\max jalapa\Desktop\parcial_progra\bin\Debug\netcoreapp3.1\parcial_progra.exe
+C:\Users\max jalapa\Desktop\parcial_progra\bin\Debug\netcoreapp3.1\parcial_progra.deps.json
+C:\Users\max jalapa\Desktop\parcial_progra\bin\Debug\netcoreapp3.1\parcial_progra.runtimeconfig.json
+C:\Users\max jalapa\Desktop\parcial_progra\bin\Debug\netcoreapp3.1\parcial_progra.runtimeconfig.dev.json
+C:\Users\max jalapa\Desktop\parcial_progra\bin\Debug\netcoreapp3.1\parcial_progra.dll
+C:\Users\max jalapa\Desktop\parcial_progra\bin\Debug\netcoreapp3.1\parcial_progra.pdb
+C:\Users\max jalapa\Desktop\parcial_progra\obj\Debug\netcoreapp3.1\parcial_progra.csprojAssemblyReference.cache
+C:\Users\max jalapa\Desktop\parcial_progra\obj\Debug\netcoreapp3.1\parcial_progra.AssemblyInfoInputs.cache
+C:\Users\max jalapa\Desktop\parcial_progra\obj\Debug\netcoreapp3.1\parcial_progra.AssemblyInfo.cs
+C:\Users\max jalapa\Desktop\parcial_progra\obj\Debug\netcoreapp3.1\parcial_progra.csproj.CoreCompileInputs.cache
+C:\Users\max jalapa\Desktop\parcial_progra\obj\Debug\netcoreapp3.1\parcial_progra.dll
+C:\Users\max jalapa\Desktop\parcial_progra\obj\Debug\netcoreapp3.1\parcial_progra.pdb
+C:\Users\max jalapa\Desktop\parcial_progra\obj\Debug\netcoreapp3.1\parcial_progra.genruntimeconfig.cache
